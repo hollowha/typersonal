@@ -14,13 +14,6 @@
    <strong><a href="#📱-run-webui">📱 Run WebUI</a></strong>   
 </p>
 
-## 🌟 Highlights
-![Vis_1](figures/vis_1.png)
-![Vis_2](figures/with_instructpix2pix.png)
-+ We propose **Typersonal**, which can generate unseen characters and styles and can be extended to cross-lingual generation, such as Chinese to Korean.
-+ **Typersonal** excels in generating complex characters and handling large style variations. And it achieves state-of-the-art performance. 
-+ The generated results by **Typersonal** can be perfectly used for **InstructPix2Pix** for decoration, as shown in the above figure.
-+ We release the 💻[Hugging Face Demo](https://huggingface.co/spaces/yeungchenwa/FontDiffuser-Gradio) online! Welcome to Try it Out!  
 
 ## 📅 News
 
@@ -100,14 +93,4 @@ A big shoutout to the original authors for pioneering one-shot font generation v
 - This repository can only be used for non-commercial research purposes.
 - For commercial use, please contact Prof. Lianwen Jin (eelwjin@scut.edu.cn).
 - Copyright 2023, [DLVC-Lab](http://www.dlvc-lab.net), South China University of Technology.
-
-## Citation
-```bibtex
-@inproceedings{yang2024fontdiffuser,
-  title={FontDiffuser: One-Shot Font Generation via Denoising Diffusion with Multi-Scale Content Aggregation and Style Contrastive Learning},
-  author={Yang, Zhenhua and Peng, Dezhi and Kong, Yuxin and Zhang, Yuyi and Yao, Cong and Jin, Lianwen},
-  booktitle={Proceedings of the AAAI conference on artificial intelligence},
-  year={2024}
-}
-```
 
