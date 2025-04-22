@@ -5,6 +5,14 @@ run_sh/
 ckpt/
 ttf/
 
+
+font_ref_imgs/
+modern_minimal/
+ink_style/
+street_trend/
+cute_handdrawn/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
