@@ -32,6 +32,9 @@
 - Pytorch 1.13.1
 - CUDA 11.7
 
+
+
+
 ### Environment Setup
 Clone this repo:
 ```bash
@@ -52,26 +55,39 @@ conda activate typersonal
 pip install torch==1.13.1+cu117 torchvision==0.14.1+cu117 torchaudio==0.13.1 --extra-index-url https://download.pytorch.org/whl/cu117
 ```
 
+
+
 **Step 3**: Install the required packages.
 ```bash
 pip install -r requirements.txt
 ```
 
-## 🏋️ Training
+**Pip install following(if above cannnot worked)**
+- transformers==4.33.1
+- accelerate==0.23.0
+- diffusers==0.22.0
+- gradio==4.8.0
+- pyyaml
+- pygame
+- opencv-python
+- info-nce-pytorch
+- kornia
+
+<!-- ## 🏋️ Training
 Training instructions...
 
 ## 📺 Sampling
-Sampling instructions...
+Sampling instructions... -->
 
 ## 📱 Run WebUI
 ### (1) Sampling by Typersonal
 ```bash
-gradio gradio_app.py
+gradio v10.py
 ```
 
 **Example**:   
 <p align="center">
-<img src="figures/gradio_fontdiffuer_new.png" width="80%" height="auto">
+<img src="figures/typersonaldemo.png" width="80%" height="auto">
 </p>
 
 ### (2) Sampling by Typersonal and Rendering by InstructPix2Pix
