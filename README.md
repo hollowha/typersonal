@@ -15,7 +15,7 @@
 </p>
 
 
-## 📅 News
+<!-- ## 📅 News -->
 
 ## 🔥 Model Zoo
 | **Model**                                    | **checkpoint** | **status** |
@@ -90,13 +90,13 @@ gradio v10.py
 <img src="figures/typersonaldemo.png" width="80%" height="auto">
 </p>
 
-### (2) Sampling by Typersonal and Rendering by InstructPix2Pix
+<!-- ### (2) Sampling by Typersonal and Rendering by InstructPix2Pix
 ```bash
 Coming Soon ...
-```
+``` -->
 
-## 🌄 Gallery
-Gallery examples...
+<!-- ## 🌄 Gallery
+Gallery examples... -->
 
 ## 💙 Acknowledgement
 - [diffusers](https://github.com/huggingface/diffusers)
