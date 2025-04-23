@@ -38,7 +38,7 @@
 ### Environment Setup
 Clone this repo:
 ```bash
-git clone https://github.com/yeungchenwa/FontDiffuser.git
+git clone https://github.com/hollowha/typersonal.git
 ```
 
 **Step 0**: Download and install Miniconda from the [official website](https://docs.conda.io/en/latest/miniconda.html).
