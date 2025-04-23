@@ -82,7 +82,7 @@ Sampling instructions... -->
 ## 📱 Run WebUI
 ### (1) Sampling by Typersonal
 ```bash
-gradio v10.py
+python v10.py
 ```
 
 **Example**:   
